@@ -1,5 +1,5 @@
 <!--
-**fsiddh/fsiddh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kc0112/kc0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hi align="center">Hi there, I am Falansh Siddh 👋</h1>
+<hi align="center">Hi there, I am Khushi Chavada 👋</h1>
 
 - 💬 Ask me about <strong>C/C++ and Data Structures & Algorithms </strong>
 - 🌱 I’m currently learning <strong>MERN Stack</strong>
